@@ -4,7 +4,7 @@
     <p align="center">
     </p>
 </p>
-<img src="https://i.imgur.com/vc3hBc1.png" style="width:200;">
+
 
 REVVPRO_bank
 a bank app for revature
